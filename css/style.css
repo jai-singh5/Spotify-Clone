@@ -195,8 +195,8 @@ body {
     align-items: center;
     position: fixed;
     bottom: 30px;
-    filter: invert(1);
-    background: #d9e2db;
+    /* filter: invert(1); */
+    background: #261d24;
     border-radius: 10px;
     width: 90%;
     padding: 12px;
@@ -269,7 +269,7 @@ body {
 .seekbar {
     height: 4px;
     width: 98%;
-    background: black;
+    background: #0f6d32;
     border-radius: 10px;
     position: absolute;
     bottom: 8px;
@@ -290,6 +290,7 @@ body {
 
 .songbuttons img {
     cursor: pointer;
+    color: #1fdf64;
 }
 
 .timevol {
@@ -300,14 +301,14 @@ body {
 
 
 .songinfo {
-    color: black;
+    color: rgb(77, 232, 11);
     padding: 0 12px;
     width: 250px;
 }
 
 .songtime {
     width: 125px;
-    color: black;
+    color: rgb(70, 221, 23);
     padding: 0 12px;
 }
 
@@ -318,6 +319,9 @@ body {
     align-items: center;
     gap: 12px;
     cursor: pointer;
+}
+.range{
+    color: #0f6d32;
 }
 .range input{
     cursor: pointer;

@@ -68,3 +68,42 @@
   /* For Firefox */
   /* scrollbar-color: #333 #222; Dark color for the thumb and track in Firefox */
   
+  /* Style the volume range slider track
+.range input[type="range"] {
+    -webkit-appearance: none;
+    width: 100%;
+    height: 5px;
+    background: #ddd; /* Default track color */
+    /* border-radius: 5px;
+    outline: none;
+    transition: background 0.3s ease;
+} */
+
+/* Style the range thumb (handle) */
+/* .range input[type="range"]::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: green; /* Green color for the thumb */
+    /* cursor: pointer; */
+/* } */ 
+
+/* For Firefox */
+/* .range input[type="range"]::-moz-range-thumb {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: green; /* Green color for the thumb */
+    /* cursor: pointer; */
+} 
+
+/* Change the color of the track when the user moves the slider */
+/* .range input[type="range"]:focus {
+    background: linear-gradient(to right, green 0%, green 100%);
+} */
+
+/* Change the track color as the slider moves */
+/* .range input[type="range"]:active {
+    background: linear-gradient(to right, rgb(0, 0, 0) 0%, green 100%);
+} */ 

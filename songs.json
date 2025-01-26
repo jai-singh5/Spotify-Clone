@@ -1,0 +1,98 @@
+{
+    "albums": [
+        {
+            "folder": "Angry_(mood)",
+            "title": "Angry Mood",
+            "description": "Calm your Anger",
+            "cover": "cover.jpg",
+            "songs": [
+                "Bang Bang.mp3",
+                "Brothers Anthem.mp3",
+                "Let Me Love You.mp3",
+                "Main Tera Boyfriend.mp3",
+                "Mercy.mp3",
+                "Paintra.mp3"
+            ]
+        },
+        {
+            "folder": "Bright_(mood)",
+            "title": "Bright Songs",
+            "description": "Bright Songs for you",
+            "cover": "cover.jpg",
+            "songs": [
+                "Let Me Love You.mp3",
+                "Main Tera Boyfriend.mp3"
+            ]
+        },
+        {
+            "folder": "Chill_(mood)",
+            "title": "Just Chill",
+            "description": "Yes, Just Chill",
+            "cover": "cover.jpg",
+            "songs": [
+                "Mercy.mp3",
+                "Paintra.mp3"
+            ]
+        },
+        {
+            "folder": "cs",
+            "title": "Copyright Songs",
+            "description": "Cover Songs for you",
+            "cover": "cover.jpg",
+            "songs": [
+                "Saadda Haq.mp3",
+                "See You Again.mp3"
+            ]
+        },
+        {
+            "folder": "Funky_(mood)",
+            "title": "Go Funky",
+            "description": "Lets go Funky",
+            "cover": "cover.jpg",
+            "songs": [
+                "Lahore.mp3",
+                "Main Tera Boyfriend.mp3"
+            ]
+        },
+        {
+            "folder": "Love_(mood)",
+            "title": "I Love You",
+            "description": "Love is in the air",
+            "cover": "cover.jpg",
+            "songs": [
+                "Saadda Haq.mp3",
+                "Shape of You.mp3"
+            ]
+        },
+        {
+            "folder": "ncs",
+            "title": "No Copyrights Songs",
+            "description": "Songs for you",
+            "cover": "cover.jpg",
+            "songs": [
+                "Something Just Like This.mp3",
+                "Suit.mp3"
+            ]
+        },
+        {
+            "folder": "songs",
+            "title": "Songs",
+            "description": "Cover Songs for you",
+            "cover": "cover.jpg",
+            "songs": [
+                "Tamma Tamma Again.mp3",
+                "Main Tera Boyfriend.mp3"
+            ]
+        },
+        {
+            "folder": "Uplifting_(mood)",
+            "title": "Get up",
+            "description": "You can do it!",
+            "cover": "cover.jpg",
+            "songs": [
+                "Sick Boy.mp3",
+                "Suit.mp3"
+            ]
+        }
+    ]
+}
